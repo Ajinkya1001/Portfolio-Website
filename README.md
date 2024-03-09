@@ -1,1 +1,1 @@
-# Portfolio-Website
+Aimed to create a responsive and visually engaging portfolio website using HTML, CSS, and JavaScript to showcase professional achievements including skills, work experience, education, and services. Ensured responsiveness across devices and integrated a downloadable CV feature for easy access to the complete resume. Implemented contact mail for seamless communication with clients and collaborators.
